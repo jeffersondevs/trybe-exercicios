@@ -6,3 +6,6 @@ O que vou apreder da Trybe na Parte de fundamentos:
 - javaScript
 - Projetos
 - javaScript DOM
+- HTML
+- CSS
+
