@@ -3,5 +3,9 @@ O que vou apreder da Trybe na Parte de fundamentos:
 - Unix
 - Bash
 - Git
+- javaScript
+- Projetos
+- javaScript DOM
 - HTML
 - CSS
+
