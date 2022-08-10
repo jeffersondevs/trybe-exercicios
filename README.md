@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositorio conta todas as atividades de aprendizagem desenvolvidas por _[Jefferson Santos](/in/jeffersonsantossilva/)_ enquanto estudava na [Trybe]
+Este repositorio conta todas as atividades de aprendizagem desenvolvidas por _[Jefferson Santos]([/in/jeffersonsantossilva/](https://www.linkedin.com/in/jeffersonsantossilva/))_ enquanto estudava na [Trybe]
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa sÃ³ paga quando conseguir um bom trabalho."_
 
